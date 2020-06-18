@@ -26,4 +26,5 @@ Verify pattern - Verify a pseudo-random pattern in a specified area of memory us
 				 where the discrepancy was found.
 				 On successful completion, this command reports the amount of time taken to perform the operation.
 
-
+# COMMANDS
+![alt text](https://github.com/deep6000/Interactive-Memory-Manipulation/blob/master/MemoryCommands.PNG)
